@@ -25,3 +25,7 @@ Superstore dataset used for analysis.
 
 ## 🚀 Project Type
 End-to-end Exploratory Data Analysis (EDA)
+
+## Key Visualizations & Insights
+1️⃣ Sales vs Profit
+![Sales vs Profit](Screenshot 2026-04-09 000137.png)
