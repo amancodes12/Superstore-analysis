@@ -29,3 +29,6 @@ End-to-end Exploratory Data Analysis (EDA)
 ## Key Visualizations & Insights
 1️⃣ Sales vs Profit
 ![Sales vs Profit](SalesvsProfit.png)
+
+2️⃣ Loss-Making Sub-Categories
+![Loss Subcategories](Lossmakingproduct.png)
