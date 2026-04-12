@@ -35,3 +35,6 @@ End-to-end Exploratory Data Analysis (EDA)
 
 4️⃣ Monthly Sales Trend
 ![Monthly Trend](Monthlysalestrend.png)
+
+5️⃣ Correlation Heatmap
+![Heatmap](Correlation.png)
