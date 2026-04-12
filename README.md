@@ -33,3 +33,5 @@ End-to-end Exploratory Data Analysis (EDA)
 2️⃣ Loss-Making Sub-Categories
 ![Loss Subcategories](Lossmakingproduct.png)
 
+4️⃣ Monthly Sales Trend
+![Monthly Trend](Monthlysalestrend.png)
